@@ -44,7 +44,7 @@ class KalkulatorBangunRuang {
     public double volumeKubus(double sisi) { return sisi * sisi * sisi; }
 }
 
-public class Main {
+public class ClassDasar {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         char pilihan;

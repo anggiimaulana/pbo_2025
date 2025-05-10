@@ -7,7 +7,6 @@ public class Kalkulator {
         this.angka1 = angka1;
         this.angka2 = angka2;
     }
-        
     public double tambah() {
         return angka1 + angka2;
     }
